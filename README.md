@@ -1,9 +1,11 @@
 # Fraud-Investigation-on-the-Enron-Email-and-Financial-Dataset
 
 ### Introduction
-In 2000, Enron was one of the largest companies in the United States. By 2002, it had collapsed into bankruptcy due to widespread corporate fraud. In the resulting Federal investigation, there was a significant amount of typically confidential information entered into the public record, including tens of thousands of emails and detailed financial data for top executives.
+Enron Corporation was one of the world’s major electricity, natural gas, communications and pulp and paper companies with approximately 20,000 staff before its bankruptcy at the end of 2001<sup>[1](http://en.wikipedia.org/wiki/Enron)</sup>. Accounting fraud perpetrated by top executives resulted in one of the largest bankruptcies in U.S. History.
 
-[In addition to being the largest bankruptcy reorganization in American history at that time, Enron was cited as the biggest audit failure](http://en.wikipedia.org/wiki/Enron_scandal).From a $90 price per share, to a $1 value represents the huge value loss and scam that happened in Enron. 
+Enron is also unique in that over 600,000 typically confidential emails from 158 employees were released after the bankruptcy.<sup>[2](http://en.wikipedia.org/wiki/Enron_Corpus) [3](http://www.cs.cmu.edu/~./enron/)</sup> Detailed financial records of many executives were also released during the fraud trials.<sup>[4](http://news.findlaw.com/legalnews/lit/enron/)</sup>
+
+[In addition to being the largest bankruptcy reorganization in American history at that time, Enron was cited as the biggest audit failure](http://en.wikipedia.org/wiki/Enron_scandal). From a $90 price per share, to a $1 value represents the huge value loss and scam that happened in Enron. 
 
 This case has been a point of interest for machine learning analysis because of the huge real-world impact that ML could help out and try to figure out what went wrong and how to avoid it in the future. It would be of great value to find a model that could potentially predict these types of events before much damage is done, so as to permit preventive action. Corporate governance, the stock market, and even the Government would be quite interested in a machine learning model that could signal potential fraud detections before hand.
 

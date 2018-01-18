@@ -5,7 +5,7 @@ Enron Corporation was one of the world’s major electricity, natural gas, commu
 
 Enron is also unique in that over 600,000 typically confidential emails from 158 employees were released after the bankruptcy.<sup>[2](http://en.wikipedia.org/wiki/Enron_Corpus) [3](http://www.cs.cmu.edu/~./enron/)</sup> Detailed financial records of many executives were also released during the fraud trials.<sup>[4](http://news.findlaw.com/legalnews/lit/enron/)</sup>
 
-[In addition to being the largest bankruptcy reorganization in American history at that time, Enron was cited as the biggest audit failure](http://en.wikipedia.org/wiki/Enron_scandal). From a $90 price per share, to a $1 value represents the huge value loss and scam that happened in Enron. 
+In addition to being the largest bankruptcy reorganization in American history at that time, Enron was cited as the biggest audit failure.<sup>[5](http://en.wikipedia.org/wiki/Enron_scandal)</sup> From a $90 price per share, to a $1 value represents the huge value loss and scam that happened in Enron. 
 
 This case has been a point of interest for machine learning analysis because of the huge real-world impact that ML could help out and try to figure out what went wrong and how to avoid it in the future. It would be of great value to find a model that could potentially predict these types of events before much damage is done, so as to permit preventive action. Corporate governance, the stock market, and even the Government would be quite interested in a machine learning model that could signal potential fraud detections before hand.
 
